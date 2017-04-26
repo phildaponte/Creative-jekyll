@@ -1,5 +1,5 @@
 backend:
   name: github
-  repo: hildaponte/Creative-jekyll # Path to your Github repository
+  repo: phildaponte/Creative-jekyll # Path to your Github repository
   branch: master # Branch to update
   site_domain: creative-jekyll.netlify.com # Your Netlify site address if different from host
