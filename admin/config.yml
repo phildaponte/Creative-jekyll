@@ -1,8 +1,8 @@
 backend:
   name: github
-  # Path to your Github repository (blanked out on purpose)
+  repo: phildaponte/Creative-jekyll # Path to your Github repository
   branch: optimize # Branch to update
 
 publish_mode: editorial_workflow
-media_folder: "src/assets/images/featured"
-public_folder: "assets/images" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "img/uploads"
+public_folder: "img" # The src attribute for uploaded media will begin with /images/uploads
