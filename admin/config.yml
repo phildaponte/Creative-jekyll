@@ -1,5 +1,5 @@
 backend:
-  name: creative-jekyll 
+  name: github
   repo: phildaponte/Creative-jekyll # Path to your Github repository
   branch: master # Branch to update
 
